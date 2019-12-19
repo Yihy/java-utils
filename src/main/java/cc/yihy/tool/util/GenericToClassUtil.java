@@ -1,4 +1,4 @@
-package cc.yihy.util;
+package cc.yihy.tool.util;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

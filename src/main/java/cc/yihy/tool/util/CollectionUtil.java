@@ -1,4 +1,4 @@
-package cc.yihy.util;
+package cc.yihy.tool.util;
 
 import org.apache.commons.collections4.CollectionUtils;
 
